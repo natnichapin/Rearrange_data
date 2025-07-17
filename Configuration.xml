@@ -1,0 +1,4 @@
+<Configuration>
+    <Thread>10</Thread>
+    <Mode>1</Mode>
+</Configuration>
